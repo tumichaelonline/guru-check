@@ -50,6 +50,32 @@ A related flag: "as seen in Forbes / Entrepreneur / Yahoo Finance." A lot of tho
 
 **The same standard binds the person running this check.** A specific number inside a search-engine summary is not verified until you open the original page and see the number there, with a source. That includes numbers that support the verdict you are already leaning toward. Uneven skepticism is how a flattering case gets a soft check and a suspicious case gets a hard one. Before you use a figure, ask: if this case were leaning the other way, would I still trust this number?
 
+## PR can look like proof. It usually is not.
+
+Authority can be manufactured without lying outright. A founder gives a number in an interview. A podcast page repeats it in the episode description. A profile copies the podcast. A review site copies the profile. Search results then show four pages that appear to agree, while every one of them traces back to the same mouth.
+
+Treat repetition as one source until you find an independent origin.
+
+Use this evidence ladder:
+
+| Level | What it is | How to label it |
+|---|---|---|
+| 0 | Claim on a sales page, a social post, or the founder's own essay | Self-reported |
+| 1 | Screenshot, dashboard, or testimonial the founder can edit or select | Founder-supplied |
+| 2 | Podcast, profile, affiliate review, or dossier repeating the founder | Repeated, not corroborated |
+| 3 | Record the founder cannot edit alone: verified processor data, a platform attestation, a company filing, a named customer speaking outside the founder's channels, a dated work artifact | Independently supported |
+
+Keep a claim ledger for every number that matters:
+
+| Claim, quoted exactly | Date and place | First origin | Independent support | Status |
+|---|---|---|---|---|
+| Write the words as published | When you read it | Who said it first | Level 3 evidence, or none found | Verified, self-reported, inconsistent, or not found |
+
+Two more rules came out of real checks:
+
+- **Guarantee audit.** Put the sales promise and the refund terms side by side, with the date you read each one. If the promise says "guaranteed" and the terms say all sales are final, report the mismatch and ask which one controls the checkout. A mismatch is a question. It is not, by itself, proof of fraud.
+- **Scam label gate.** Do not call a named person a scammer or a fraud in public unless you have a regulator or court record, a payment processor finding, or several independent customers with receipts that point to the same deceptive practice. Below that line, use exact language: unverified claim, marketing overreach, inconsistent figures, not enough evidence. Precision protects the person checking, and it makes the criticism harder to dismiss.
+
 ## Judge by the students, not the founder
 
 A real practitioner can still be a bad teacher. Stronger than the founder's own record: **a named student, starting from a place like yours, with a result after they joined, found outside the founder's channels.**
@@ -230,3 +256,5 @@ Most real checks end at "not enough signal," not at a clean buy or skip. Do not 
 - Did you open with the table, then the evidence?
 - Did you open the original source for every specific number, including numbers that help your current verdict?
 - Did you apply the same skepticism to evidence for the verdict as to evidence against it?
+- Did you trace each repeated claim back to its first origin, so a podcast and three profiles do not count as four sources?
+- If you used the word scammer or fraud, did the evidence pass the scam label gate?

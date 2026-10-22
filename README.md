@@ -10,7 +10,7 @@ It also does the opposite job. A lot of quiet practitioners fail every red-flag 
 
 ## What you get
 
-- `SKILL.md`: the method, written so an agent can run it and a person can read it.
+- `SKILL.md`: the method, written so an agent can run it and a person can read it. It includes an evidence ladder for PR and podcast claims, a claim ledger, a guarantee audit, and a gate for using the word scammer in public.
 - `references/signal-catalog.md`: the longer lists (guru fingerprints, community decay, Skool surface checks, creator-platform traps).
 
 Private case files stay private. This repo is the method, not a dossier.
